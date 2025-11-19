@@ -1,0 +1,18 @@
+{
+  "username": "demo",
+  "name": "Alex the Awesome",
+  "email": "alex@superstars.dev",
+  "bio": "Professional bug creator turned bug destroyer 🐛💥",
+  "location": "Bangalore, India",
+  "favoriteColor": "Electric Blue",
+  "favoriteGame": "Among Us (always sus 👀)",
+  "hobbies": "Collecting rubber ducks, speed-cubing, making terrible puns",
+  "superpower": "The ability to understand my own code from 6 months ago",
+  "favoriteSnack": "Masala Pringles and cold coffee",
+  "funFact": "I once debugged code in my dreams and it actually worked!",
+  "customization": {
+    "backgroundColor": "midnightblue",
+    "backgroundImage": "",
+    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex"
+  }
+}

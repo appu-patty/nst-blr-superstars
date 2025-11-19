@@ -1,0 +1,18 @@
+{
+  "username": "charlie",
+  "name": "Charlie the Code Ninja",
+  "email": "charlie@codedojo.dev",
+  "bio": "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️",
+  "location": "Bangalore, India",
+  "favoriteColor": "Purple",
+  "favoriteGame": "Valorant - I main Jett 🎯",
+  "hobbies": "Making memes, playing guitar badly, collecting houseplants",
+  "superpower": "The ability to Google things really, really well",
+  "favoriteSnack": "Nachos with extra cheese",
+  "funFact": "I once fixed a production bug by turning it off and on again. My team still doesn't know.",
+  "customization": {
+    "backgroundColor": "coral",
+    "backgroundImage": "",
+    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Charlie"
+  }
+}
